@@ -1,2 +1,4 @@
 # Portfolio
-Simple Bootstrap PersonalPortfolio
+Personal Portfolio
+Used Bootstrap5
+
